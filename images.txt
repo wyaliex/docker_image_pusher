@@ -1,2 +1,3 @@
 #cp0204/dkturbo
-nginx:stable-alpine3.20
+#nginx:stable-alpine3.20
+cheche/qinglong:pre
