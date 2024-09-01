@@ -3,4 +3,5 @@
 #cheche/qinglong:pre
 #portainer/agent:alpine-sts
 #gettionhub/1panel:latest
-whyour/qinglong:debian-dev
+#whyour/qinglong:debian-dev
+whyour/qinglong:2.11.3
