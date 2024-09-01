@@ -2,4 +2,5 @@
 #nginx:stable-alpine3.20
 #cheche/qinglong:pre
 #portainer/agent:alpine-sts
-gettionhub/1panel:latest
+#gettionhub/1panel:latest
+whyour/qinglong:debian-dev
